@@ -1,6 +1,6 @@
 # Catálogo de prompts
 
-Índice da biblioteca. Prompts em **Rascunho** ainda não foram validados em um cenário real; adapte-os ao contexto e registre os testes.
+Índice dos prompts completos em Markdown. O catálogo resumido da aplicação fica em [`dados/prompts.json`](../dados/prompts.json). Ao adicionar ou alterar um prompt, atualize os dois índices.
 
 ## Desenvolvimento Web
 
@@ -17,7 +17,7 @@
 
 ## Programação
 
-Ainda sem prompts cadastrados. Consulte o [guia da categoria](02-programacao/README.md).
+Ainda sem prompts. Consulte o [guia da categoria](02-programacao/README.md).
 
 ## Inteligência Artificial
 
@@ -43,22 +43,22 @@ Ainda sem prompts cadastrados. Consulte o [guia da categoria](02-programacao/REA
 
 ## Finanças e Investimentos
 
-Ainda sem prompts cadastrados. Consulte o [guia da categoria](05-financas-investimentos/README.md).
+Ainda sem prompts. Consulte o [guia da categoria](05-financas-investimentos/README.md).
 
 ## Produtividade e Administração
 
-Ainda sem prompts cadastrados. Consulte o [guia da categoria](06-produtividade-administracao/README.md).
+Ainda sem prompts. Consulte o [guia da categoria](06-produtividade-administracao/README.md).
 
 ## Design e Criatividade
 
-Ainda sem prompts cadastrados. Consulte o [guia da categoria](07-design-criatividade/README.md).
+Ainda sem prompts. Consulte o [guia da categoria](07-design-criatividade/README.md).
 
 ## Pesquisa e Estudos
 
-Ainda sem prompts cadastrados. Consulte o [guia da categoria](08-pesquisa-estudos/README.md).
+Ainda sem prompts. Consulte o [guia da categoria](08-pesquisa-estudos/README.md).
 
 ## Status
 
 - **Rascunho** — ainda não validado.
 - **Em teste** — em processo de experimentação.
-- **Testado** — usado em cenário real e revisado; consulte o histórico de validação do arquivo.
+- **Testado** — usado em cenário real e revisado; registre o histórico de validação no arquivo.
